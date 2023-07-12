@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Dell\\OneDrive\\Desktop\\mysql-connector-j-8.0.31.jar"
+    ],
+    "java.project.sourcePaths": [
+        "JAVA programs/src",
+        "JAVA programs/data structures/Linked list",
+        "JAVA programs",
+        "Practice Files/Linked List"
+    ]
+}
